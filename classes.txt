@@ -1,0 +1,31 @@
+1. 	Burger
+2. 	Chiya
+3. 	Dalbhat
+4. 	Friedrice
+5. 	Jeri
+6. 	Momo
+7. 	Omelete
+8. 	Panipuri
+9. 	Pizza
+10. Roti
+11.	Samosa
+12.	Selroti
+13. Dhido
+14.	Gundruk
+15.	Pakoda
+16.	Yomari
+17.	Sekuwa
+18.	Kheer
+19.	Juju Dhau
+20.	Chow mein
+21.	Chhurpi
+22.	kwati
+23.	Phulaura
+24.	Sukuti
+25. Thenthuk
+26.	Laddu
+27. Thekua
+28.	Tongba
+29.	Bhakka
+30.	Chaku
+31.	Puwa	
