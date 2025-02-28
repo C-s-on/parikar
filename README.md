@@ -36,11 +36,12 @@ Existing food classification systems lack the specificity and diversity needed t
 ## Results and appendix:
 We were able to implement the exported model with a Flutter app and achieve over 90% accuracy with all three models.
 ![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/start.jpg)
+![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/classify.jpg)
 ![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/select_model.jpg)
-![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/home.jpg)
-![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/home.jpg)
-![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/home.jpg)
-![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/home.jpg)
+![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/select_image.jpg)
+![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/momo_2.jpg)
+![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/pizza.jpg)
+![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/info.jpg)
 
 ## Conclusion:
 Parika serves as a technological bridge, promoting Nepali culinary heritage through efficient food recognition. The project intends continuous database enrichment for expanded coverage and improved accuracy in identifying Nepali dishes.
