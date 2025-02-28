@@ -40,16 +40,16 @@ The "Parikar" project uses transfer learning with YOLOv8, InceptionV3, and VGG16
 We were able to implement the exported model with a Flutter app and achieve over 90% accuracy with all three models.
 ### InceptionV3
 <p align="center">
-  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/v3_tv_accuracy.png" width="200"/>
-  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/v3_tv_loss.png" width="200"/>
+  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/v3_tv_accuracy.png" width="400"/>
+  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/v3_tv_loss.png" width="400"/>
 </p>
-### VGG16
+#### VGG16
 <p align="center">
-  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/vgg_tv_accuracy.png" width="200"/>
-  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/vgg_tv_loss.png" width="200"/>
+  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/vgg_tv_accuracy.png" width="400"/>
+  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/vgg_tv_loss.png" width="400"/>
 </p>
 <p align="center">
-  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/vgg_confusion_matrix.png" width="200"/>
+  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/vgg_confusion_matrix.png" width="500"/>
 </p>
 
 
