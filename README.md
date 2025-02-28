@@ -33,6 +33,7 @@ The "Parikar" project is a mobile app designed to classify 12 distinct types of 
 Existing food classification systems lack the specificity and diversity needed to capture the nuances of Nepali culinary diversity effectively. This project aims to address this gap by creating a system specifically tailored to identify and celebrate the unique flavors and ingredients of Nepali dishes. Recent trends in classification include the use of TensorFlow and Transfer Learning for food classification with Convolutional Neural Networks (CNNs).
 
 ## Methodology:
+The "Parikar" project uses transfer learning with YOLOv8, InceptionV3, and VGG16 models to classify 12 types of Nepali food. The models are converted to the TensorFlow Lite format for mobile use. An ImageDataGenerator is used for data augmentation and preprocessing, and the data is split into training and validation sets. The goal is to develop a user-friendly mobile app with Flutter and Dart that can accurately identify Nepali dishes using smartphone cameras.
 
 ## Results and appendix:
 We were able to implement the exported model with a Flutter app and achieve over 90% accuracy with all three models.
