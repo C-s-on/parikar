@@ -1,5 +1,5 @@
 # parikar
-<p align="right">
+<p align="left">
   <img src="https://github.com/C-s-on/parikar/blob/main/gfx/sq_home.jpg" width="200"/>
 </p>
 
