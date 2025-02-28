@@ -12,8 +12,7 @@ The "Parikar" project is a mobile app designed to classify 12 distinct types of 
 - [Features](#features)
 - [Background](#background)
 - [Methodology](#methodology)
-- [Results](#results)
-- [Discussion](#discussion)
+- [Results and appendix](#results)
 - [Conclusion](#conclusion)
 - [Outcomes](#outcomes)
 - [Resources](#resources)
@@ -57,4 +56,13 @@ We were able to implement the exported model with a Flutter app and achieve over
 Parika serves as a technological bridge, promoting Nepali culinary heritage through efficient food recognition. The project intends continuous database enrichment for expanded coverage and improved accuracy in identifying Nepali dishes.
 
 ## Outcome:
-The expected outcome is a precise and accessible app that aids in cultural awareness and dietary choices for users.
+Precise and accessible app that aids in cultural awareness and dietary choices for users.
+
+## Resources
+1. Python Documentation - https://docs.python.org/3/tutorial/index.html
+2. Seaborn Documentation - https://seaborn.pydata.org/tutorial.html
+3. Pandas Documentation - https://pandas.pydata.org/docs
+4. Numpy Documentation - https://numpy.org/doc/stable
+5. Matplotlib Documentation - https://matplotlib.org/stable/tutorials/index
+6. Ipython Documentation - https://ipython.org/documentation.html
+7. Plotly Documentation - https://plotly.com/python/
