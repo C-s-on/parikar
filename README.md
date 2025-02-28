@@ -1,4 +1,5 @@
 # parikar
+![Analysis-of-Meteorites](https://github.com/C-s-on/parikar/blob/main/gfx/home.jpg)
 
 ## Introduction:
 The "Parikar" project is a mobile app designed to classify 12 distinct types of Nepali cuisine using transfer learning with YOLOv8, InceptionV3, and VGG16 models. It addresses the gap in existing food classification systems that predominantly focus on global cuisines, lacking the specificity needed to recognize Nepali dishes accurately
