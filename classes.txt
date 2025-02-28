@@ -7,10 +7,10 @@
 7. 	Omelete
 8. 	Panipuri
 9. 	Pizza
-10. Roti
+10.     Roti
 11.	Samosa
 12.	Selroti
-13. Dhido
+13.     Dhido
 14.	Gundruk
 15.	Pakoda
 16.	Yomari
@@ -22,9 +22,9 @@
 22.	kwati
 23.	Phulaura
 24.	Sukuti
-25. Thenthuk
+25.     Thenthuk
 26.	Laddu
-27. Thekua
+27.     Thekua
 28.	Tongba
 29.	Bhakka
 30.	Chaku
