@@ -1,5 +1,7 @@
 # parikar
-![Parikar](https://github.com/C-s-on/parikar/blob/main/gfx/home.jpg)
+<p align="right">
+  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/sq_home.jpg" width="200"/>
+</p>
 
 ## Introduction:
 The "Parikar" project is a mobile app designed to classify 12 distinct types of Nepali cuisine using transfer learning with YOLOv8, InceptionV3, and VGG16 models. It addresses the gap in existing food classification systems that predominantly focus on global cuisines, lacking the specificity needed to recognize Nepali dishes accurately. It is developed using Flutter and Dart. It allows users to identify Nepali dishes by using their smartphone cameras. The models are converted into TensorFlow Lite format for efficient use on mobile devices.
