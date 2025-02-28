@@ -12,7 +12,8 @@ The "Parikar" project is a mobile app designed to classify 12 distinct types of 
 - [Features](#features)
 - [Background](#background)
 - [Methodology](#methodology)
-- [Results and appendix](#results)
+- [Results](#results)
+- [Appendix](#appendix)
 - [Conclusion](#conclusion)
 - [Outcomes](#outcomes)
 - [Resources](#resources)
@@ -35,8 +36,24 @@ Existing food classification systems lack the specificity and diversity needed t
 ## Methodology:
 The "Parikar" project uses transfer learning with YOLOv8, InceptionV3, and VGG16 models to classify 12 types of Nepali food. The models are converted to the TensorFlow Lite format for mobile use. An ImageDataGenerator is used for data augmentation and preprocessing, and the data is split into training and validation sets. The goal is to develop a user-friendly mobile app with Flutter and Dart that can accurately identify Nepali dishes using smartphone cameras.
 
-## Results and appendix:
+## Results:
 We were able to implement the exported model with a Flutter app and achieve over 90% accuracy with all three models.
+### InceptionV3
+<p align="center">
+  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/v3_tv_accuracy.jpg" width="200"/>
+  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/v3_tv_loss.jpg" width="200"/>
+</p>
+### VGG16
+<p align="center">
+  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/vgg_tv_accuracy.jpg" width="200"/>
+  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/vgg_tv_loss.jpg" width="200"/>
+</p>
+<p align="center">
+  <img src="https://github.com/C-s-on/parikar/blob/main/gfx/vgg_confusion_matrix.jpg" width="200"/>
+</p>
+
+
+## Appendix:
 <p align="center">
   <img src="https://github.com/C-s-on/parikar/blob/main/gfx/start.jpg" width="200"/>
   <img src="https://github.com/C-s-on/parikar/blob/main/gfx/classify.jpg" width="200"/>
