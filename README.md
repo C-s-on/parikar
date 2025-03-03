@@ -79,9 +79,9 @@ Precise and accessible app that aids in cultural awareness and dietary choices f
 
 ## Resources
 1. Python Documentation - https://docs.python.org/3/tutorial/index.html
-2. Seaborn Documentation - https://seaborn.pydata.org/tutorial.html
-3. Pandas Documentation - https://pandas.pydata.org/docs
-4. Numpy Documentation - https://numpy.org/doc/stable
-5. Matplotlib Documentation - https://matplotlib.org/stable/tutorials/index
-6. Ipython Documentation - https://ipython.org/documentation.html
-7. Plotly Documentation - https://plotly.com/python/
+2. Ipython Documentation - https://ipython.org/documentation.html
+3. Plotly Documentation - https://plotly.com/python/
+4. Tensorflow Documentation - https://www.tensorflow.org/api_docs
+5. Flutter Documentation - https://api.flutter.dev/
+6. Keras Documentationion - https://keras.io/api/
+7. MongoDB Documentation - https://www.mongodb.com/docs/
